@@ -30,7 +30,7 @@ We recommend using VSCode with the [Vala plugin](https://marketplace.visualstudi
 ![VLS with VSCode](images/vls-vscode.png)
 ![VLS with Vim with coc.nvim and vista plugins](images/vls-vim.png)
 ![VLS with GNOME Builder](images/vls-gb.png)
-![VLS with Geany](images/vls-geany.png)
+![VLS with Geany](images/vls_geany.png)
 
 ## Table of Contents
 - [Vala Language Server](#vala-language-server)
